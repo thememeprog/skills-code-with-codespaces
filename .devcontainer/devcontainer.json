@@ -1,0 +1,7 @@
+{
+  "name": "Basic Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
+}node --version
+dotnet --version
+python --version
+gh --version
